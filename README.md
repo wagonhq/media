@@ -14,3 +14,5 @@ Logo
     <td><img src="logos/wagon_logo.png"/></td>
   </tr>
 </table>
+
+Logos also available as .svg
